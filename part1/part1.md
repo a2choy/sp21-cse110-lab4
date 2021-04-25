@@ -1,11 +1,11 @@
-1a
+## Part 1a  
 1) 20
 2) 20
 3) 20
 4) error since result is not defined outside of that block
 5) error since we cannot assign a new value to const
 6) error since const has same scope as let
-1b
+## Part 1b  
 1) it will return 3 which is the value of i after the forloop (starts at 0, then there are 3 elements)
 2) 150, since its the last iteration of discounted price in the forloop that gets saved and that value is 300*0.5
 3) 150 for the same reason
